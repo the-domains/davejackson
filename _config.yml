@@ -1,0 +1,28 @@
+name: davejackson
+favicon: null
+layout_spectrum: 0.015800228342413902
+typography_spectrum: 0.9597752839326859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5235403245314956
+  lightness: 0.49287085398100317
+  saturation: 0.389765995554626
+  rhythmicContrast: 0.4227316635660827
+purpose: []
