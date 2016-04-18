@@ -6,22 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to my new site on The Grid.
-datePublished: '2016-04-18T20:39:55.856Z'
-dateModified: '2016-04-18T20:39:13.628Z'
+datePublished: '2016-04-18T20:47:58.634Z'
+dateModified: '2016-04-18T20:47:45.918Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-welcome-to-my-new-site-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-welcome-to-my-new-site-on-the-grid.md
-published: true
 url: welcome-to-my-new-site-on-the-grid/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96b5a1e-cd57-4151-9f1f-853c002e471f.png)
-
 Welcome to my new site on The Grid.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75736971-2e4d-4279-9282-e69cfa337ed0.png)
