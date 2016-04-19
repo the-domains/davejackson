@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Welcome to my new site on The Grid.
-datePublished: '2016-04-18T20:47:58.634Z'
-dateModified: '2016-04-18T20:47:45.918Z'
+description: "Welcome to 'Business Matters'. Here you'll find tons of useful tools, tips, links, video and more, all designed to help any one running or managing a business in today's fast changing world."
+datePublished: '2016-04-19T15:22:10.000Z'
+dateModified: '2016-04-19T15:21:48.060Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-welcome-to-my-new-site-on-the-grid.md
@@ -22,5 +22,8 @@ url: welcome-to-my-new-site-on-the-grid/index.html
 _type: Article
 
 ---
-Welcome to my new site on The Grid.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75736971-2e4d-4279-9282-e69cfa337ed0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcbd73ef-9dff-44ef-85e2-19d1de859c3c.jpg)
+
+Welcome to 'Business Matters'. Here you'll find tons of useful tools, tips, links, video and more, all designed to help any one running or managing a business in today's fast changing world.
+
+Keeping up with new technology, platforms and social media presents a challenge to any business but also great opportunities for those who recognise the latest trends and apply them to their business. I hope you bookmark the page and become a regular visitor and that you find the information useful.
