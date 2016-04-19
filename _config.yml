@@ -1,7 +1,7 @@
 name: davejackson
 favicon: null
 layout_spectrum: 0.74526
-typography_spectrum: 0.56771
+typography_spectrum: 0.14128
 title: "Dave Jackson's Business Matters"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8125
-  lightness: 0.375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  brandStrength: 0.125
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
